@@ -657,6 +657,7 @@ border:none;
       align-items: center;
       position: relative;
       z-index: 10;
+      margin-top: 89px;
       box-shadow: rgba(237, 228, 128, 0.689) 0px 7px 29px 0px;
     }
   }
